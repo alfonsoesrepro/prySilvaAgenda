@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prySilvaAgenda", "prySilvaAgenda\prySilvaAgenda.csproj", "{6DCF1D14-CE00-43A5-8D38-AC22726977E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCF1D14-CE00-43A5-8D38-AC22726977E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCF1D14-CE00-43A5-8D38-AC22726977E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCF1D14-CE00-43A5-8D38-AC22726977E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCF1D14-CE00-43A5-8D38-AC22726977E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3410FCC2-F739-461D-AFB6-2D3FE1F41F74}
+	EndGlobalSection
+EndGlobal
